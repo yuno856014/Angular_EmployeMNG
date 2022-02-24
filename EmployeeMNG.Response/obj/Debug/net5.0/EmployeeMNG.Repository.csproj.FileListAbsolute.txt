@@ -1,0 +1,15 @@
+D:\LVProject\EmployeeMNG.Response\bin\Debug\net5.0\EmployeeMNG.Repository.deps.json
+D:\LVProject\EmployeeMNG.Response\bin\Debug\net5.0\EmployeeMNG.Repository.dll
+D:\LVProject\EmployeeMNG.Response\bin\Debug\net5.0\ref\EmployeeMNG.Repository.dll
+D:\LVProject\EmployeeMNG.Response\bin\Debug\net5.0\EmployeeMNG.Repository.pdb
+D:\LVProject\EmployeeMNG.Response\bin\Debug\net5.0\EmloyeeMNG.Domain.dll
+D:\LVProject\EmployeeMNG.Response\bin\Debug\net5.0\EmloyeeMNG.Domain.pdb
+D:\LVProject\EmployeeMNG.Response\obj\Debug\net5.0\EmployeeMNG.Repository.csproj.AssemblyReference.cache
+D:\LVProject\EmployeeMNG.Response\obj\Debug\net5.0\EmployeeMNG.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\LVProject\EmployeeMNG.Response\obj\Debug\net5.0\EmployeeMNG.Repository.AssemblyInfoInputs.cache
+D:\LVProject\EmployeeMNG.Response\obj\Debug\net5.0\EmployeeMNG.Repository.AssemblyInfo.cs
+D:\LVProject\EmployeeMNG.Response\obj\Debug\net5.0\EmployeeMNG.Repository.csproj.CoreCompileInputs.cache
+D:\LVProject\EmployeeMNG.Response\obj\Debug\net5.0\EmployeeMNG.Repository.csproj.CopyComplete
+D:\LVProject\EmployeeMNG.Response\obj\Debug\net5.0\EmployeeMNG.Repository.dll
+D:\LVProject\EmployeeMNG.Response\obj\Debug\net5.0\ref\EmployeeMNG.Repository.dll
+D:\LVProject\EmployeeMNG.Response\obj\Debug\net5.0\EmployeeMNG.Repository.pdb

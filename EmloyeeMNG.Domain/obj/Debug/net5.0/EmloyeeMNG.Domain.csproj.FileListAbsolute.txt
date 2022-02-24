@@ -1,0 +1,15 @@
+D:\LVProject\EmloyeeMNG.Domain\bin\Debug\net5.0\EmloyeeMNG.Domain.deps.json
+D:\LVProject\EmloyeeMNG.Domain\bin\Debug\net5.0\EmloyeeMNG.Domain.dll
+D:\LVProject\EmloyeeMNG.Domain\bin\Debug\net5.0\ref\EmloyeeMNG.Domain.dll
+D:\LVProject\EmloyeeMNG.Domain\bin\Debug\net5.0\EmloyeeMNG.Domain.pdb
+D:\LVProject\EmloyeeMNG.Domain\obj\Debug\net5.0\EmloyeeMNG.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\LVProject\EmloyeeMNG.Domain\obj\Debug\net5.0\EmloyeeMNG.Domain.AssemblyInfoInputs.cache
+D:\LVProject\EmloyeeMNG.Domain\obj\Debug\net5.0\EmloyeeMNG.Domain.AssemblyInfo.cs
+D:\LVProject\EmloyeeMNG.Domain\obj\Debug\net5.0\EmloyeeMNG.Domain.csproj.CoreCompileInputs.cache
+D:\LVProject\EmloyeeMNG.Domain\obj\Debug\net5.0\EmloyeeMNG.Domain.dll
+D:\LVProject\EmloyeeMNG.Domain\obj\Debug\net5.0\ref\EmloyeeMNG.Domain.dll
+D:\LVProject\EmloyeeMNG.Domain\obj\Debug\net5.0\EmloyeeMNG.Domain.pdb
+D:\LVProject\EmloyeeMNG.Domain\bin\Debug\net5.0\EmloyeeMNG.Domain.runtimeconfig.json
+D:\LVProject\EmloyeeMNG.Domain\bin\Debug\net5.0\EmloyeeMNG.Domain.runtimeconfig.dev.json
+D:\LVProject\EmloyeeMNG.Domain\obj\Debug\net5.0\EmloyeeMNG.Domain.genruntimeconfig.cache
+D:\LVProject\EmloyeeMNG.Domain\obj\Debug\net5.0\EmloyeeMNG.Domain.csproj.AssemblyReference.cache
